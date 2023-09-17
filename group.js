@@ -1,4 +1,4 @@
-const dataset = require("./cities.json");
+const dataset = require("./my-app/src/cities.json");
 const fs = require("fs");
 
 function reduceWithoutSpread(predicate) {
