@@ -9,3 +9,9 @@ Dataset size: 140_988 elements
 | reduceWithSpread    | 5030.25                 |
 | reduceWithoutSpread | 6.9353                  |
 | justLoop            | 6.2498                  |
+
+### How to run the benchmark
+
+```sh
+node group.js
+```
